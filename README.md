@@ -1,4 +1,4 @@
-<h3>Nom_Projet : Wedding-Website</h3>
+<h3>Nom_Projet : Site Web pour un mariage</h3>
 <h3>Date : 11/2021</h3>
 <h3>Description : Ceci est une description de test</h3>
 <h3>Langages_Utilisés : HTML, CSS, JS</h3>
